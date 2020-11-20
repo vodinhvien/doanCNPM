@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiNhanVien.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ChonNhaCungCapForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/DateButton.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/Employee_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiSanPham.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/QuanLyQuyenForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DTO/KhachHang.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ChonNhanVienForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/EmployeeInsert_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/Theloai_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/BUS/QuanLyChiTietPhieuNhapBUS.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DAO/NhanVien_DAO.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ChonSanPhamForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiNhaCungCap.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ThemSuaQuyenForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/EmployeeUpdate_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DTO/NhaCungCap.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/BUS/KhachHang_BUS.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DTO/chitietsanphamDTO.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/BanHangForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/BUS/QuanLyNhaCungCapBUS.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DTO/User.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/TheloaiUpdate_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/BUS/NhanVien_BUS.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/BUS/Product_BUS.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/BillUpdate_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiQuyen.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI_Bandt/GiaoDienMuaHang.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DAO/QuanLyNhaCungCapDAO.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/XoaButton.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/Customer_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ThemButton.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiKhachHang.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/HienThiTaiKhoan.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/TheloaiInsert_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/FormHienThi.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/QuanLyTaiKhoanForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ChonKhachHangForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/CustomerUpdate_Frame.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/NhapHangForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/QuanLyChiTietPhieuNhapForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/ThemSuaTaiKhoanForm.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/FormHang.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/DAO/KhachHang_DAO.java</file>
+            <file>file:/C:/Users/Delll/OneDrive/Documents/NetBeansProjects/javaproject/src/GUI/Bill_Frame.java</file>
+        </group>
+    </open-files>
+</project-private>
